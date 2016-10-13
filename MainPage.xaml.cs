@@ -27,15 +27,7 @@ namespace CSHelloWorldUniversalApp
     /// </summary>
     public sealed partial class MainPage : Page
     {
-        public MainPage()
-        {
-            this.InitializeComponent();
-        }
-
-        private void inputButton_Click(object sender, RoutedEventArgs e)
-        {
-            /////greetingOutput.Text = "Hello, " + nameInput.Text + "!";
-        }
+       hiiiiiiiiiiiiiiiiiiiiiiiiiiiii
     }
 }
 
